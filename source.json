@@ -1,0 +1,72 @@
+{
+    "home_page": {
+        "title": "Home",
+        "byline": "Unlock more leads!"
+    },
+    "filter_page": {
+        "title": "Filter Chatlist",
+        "byline": "Filter chatlist by unread, country etc.",
+        "filters": {
+            "heading": "Filters",
+            "allContacts": "All Contacts",
+            "unread": "Unread",
+            "nonContacts": "Non-contacts"
+        },
+        "customFilters": {
+            "heading": "Custom Filters",
+            "buttonText": "Add Filter Group"
+        }
+    },
+    "export-page": {
+        "title": "Export Options",
+        "byline": "Download contacts to CSV",
+        "customExport": {
+            "heading": "Custom Export",
+            "allContacts": "All Contacts",
+            "contacts": "Contacts",
+            "nonContacts": "Non-contacts",
+            "subHeading": "Export from",
+            "options": {
+                "groups": "Groups",
+                "chatList": "Chatlist",
+                "allGroups": "All Groups",
+                "label": "Label"
+            },
+            "country": {
+                "subHeading": "country",
+                "options": {
+                    "unitedStates": "United States",
+                    "france": "France",
+                    "germany": "Germany",
+                    "canada": "Canada"
+                }
+            }
+        },
+        "buttonText": "Export Contacts"
+    },
+    "notes-page": {
+        "title": "Notes",
+        "byline": "Write it down here",
+        "label": "Your message",
+        "placeholder": "Your message..."
+    },
+    "settings-page": {
+        "title": "Settings",
+        "byline": "Configure your WAXP Experience!",
+        "chatSettings": {
+            "heading": "Chat Settings",
+            "hideChatListData": "Hide Chatlist Data",
+            "showChatListData": "Show Chatlist Data",
+            "hideTypingStatus": "Hide Typing Status",
+            "showTypingStatus": "Show Typing Status"
+        },
+        "languageSettings": {
+            "heading": "Language Settings",
+            "subHeading": "Change your language settings",
+            "selectLanguage": "Select Language"
+        }
+    },
+    "welcome-text": {
+        "message": "Welcome to the react-i18next tutorial, {{num, number}}"
+    }
+}
